@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gulomjon(Tora) Turaev</h1>
+<h1 align="center">Hi 👋, I'm Gulom(Tora) </h1>
 <h3 align="center">Data Science Enthusiast and Aspiring Data Scientist</h3>
 
 - 🔭 I’m currently working on **Statistical Data Analysis**
